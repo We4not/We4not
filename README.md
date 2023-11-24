@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @We4not
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Python
+- 👀 I’m interested in programming games and game engine
+- 🌱 I’m currently learning C++, C# and Python
+- 👨‍🎓 I'm student
 
 <!---
 We4not/We4not is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
