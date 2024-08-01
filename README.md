@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @We4not
 - 👀 I’m interested in programming games, game engine and programs
-- 🌱 I’m currently learning C, C++, C# and Python
+- 🌱 I’m currently learning C, C++, C#, Python, GDScript and Godot Engine 4 :D
 - 👨‍🎓 I'm student
 
 <!---
