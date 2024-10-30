@@ -8,7 +8,7 @@
                                                     Welcome to my profile :)                                                              there's nothing here lol                                                                                      
 ```
 - 👀 I’m interested in programming games, game engine and programs
-- 🌱 I’m currently learning C, C++, C#, Python, GDScript and Godot Engine 4 :D
+- 🌱 I’m currently learning C, C++, C#, Python, and Unity Engine :D
 - 👨‍🎓 I'm student
 
 <!---
