@@ -7,12 +7,13 @@
                                        ╚══╝╚══╝ ╚══════╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝    ╚═╝
                                                     Welcome to my profile :)                                                              there's nothing here lol                                                                                      
 ```
+# About me
 ---
-- 👀 I’m interested in programming games, game engine and programs
+- 👀 I’m interested in programming games and programs
 - 🌱 I’m currently learning C, C++, C#, and Python :D
-- 👨‍🎓 I'm student
 ---
-My youtube:
+# Links
+Youtube:
 [We4not](https://www.youtube.com/channel/UC7UptZhIsY4jQ81lbmDEAIw)
 <!---
 We4not/We4not is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
